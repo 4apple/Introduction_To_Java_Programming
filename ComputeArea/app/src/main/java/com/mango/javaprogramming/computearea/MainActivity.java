@@ -18,7 +18,6 @@ public class MainActivity extends AppCompatActivity {
         double radius;
         double area;
         final double PI = 3.1415926;
-
         radius = 20;
 
         area = radius * radius * PI;
